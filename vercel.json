@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://netease-cloud-music-api-gilt-ten-37.vercel.app/:match*"
+    }
+  ]
+}
